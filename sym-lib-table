@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "microsd-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/microsd-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "1_own_SD")(type "KiCad")(uri "${KIPRJMOD}/1_own_SD.kicad_sym")(options "")(descr ""))
+  (lib (name "Untitled-altium-import")(type "KiCad")(uri "/Users/blurbler/Documents/3.semester/LV-CAE/8.6.26/Untitled/Untitled-altium-import.kicad_sym")(options "")(descr ""))
+)
